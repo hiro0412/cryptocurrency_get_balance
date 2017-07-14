@@ -1,8 +1,8 @@
 # coding: utf-8
 
 """
-Acquire balance information from zaif.jp.
------------------------------------------
+Acquire balance information from bitflyer.
+------------------------------------------
 
 * About the api:
  * https://lightning.bitflyer.jp/docs
